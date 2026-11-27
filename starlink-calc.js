@@ -1,4 +1,4 @@
-const monthlyPlanprice = 236;
+const monthlyPlanPrice = 236;
 const months = 12;
 const hashardwareDiscount = true;
 let baseAntennaPrice = 1200;
